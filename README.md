@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Introduction
+## Introduction
 
 A simple Single Page React Application that uses GitHub Actions Workflow to deploy on an S3 bucket that was generated from AWS CDK Toolkit
 > AWS CDK Toolkit [repository](https://github.com/mmertdogann/aws-cdk-react) for the React App's IaC needs
