@@ -1,4 +1,4 @@
-name: Upload React.js S3 Bucet
+name: Upload React.js S3 Bucket
 
 on:
   push:
